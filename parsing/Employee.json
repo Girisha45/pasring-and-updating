@@ -1,0 +1,16 @@
+{
+  "firstname": "Girish",
+  "lastname": "N",
+  "address": [
+    {
+      "Street": "Chaithanyanagar",
+      "city": "Doddaballapur",
+       "state": "Karnataka"
+    },
+    {
+      "Street": "H.S.Rlayout",
+      "city": "Bangalore",
+       "state": "Karnataka"
+    }
+  ]
+}
